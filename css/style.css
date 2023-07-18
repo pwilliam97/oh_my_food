@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&family=Roboto&family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&family=Shrikhand&display=swap");
+
+@media all and (max-width: 768px) {
+  body {
+    font-family: Roboto;
+  }
+  body h3 {
+    font-family: Shrikhand;
+  }
+  header {
+    border: 1px solid black;
+    width: 100%;
+  }
+
+}
+/*# sourceMappingURL=style.css.map */
